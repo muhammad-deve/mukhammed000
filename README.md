@@ -38,7 +38,7 @@ I'm a backend developer with expertise in Golang, microservices, and gRPC. I enj
   <a href="https://t.me/muhammad_deve">  
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">  
   </a>  
-  <a href="https://linkedin.com/in/yourprofile">  
+  <a href="https://www.linkedin.com/in/muhammadsodiq-xudoynazarov-639a48315/">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">  
   </a>  
   <a href="https://github.com/mukhammaed000">  
