@@ -3,14 +3,14 @@
 I'm a backend developer with expertise in Golang, microservices, and gRPC. I enjoy designing and developing high-performance, scalable applications, focusing on efficiency, reliability, and maintainability. My tech stack includes PostgreSQL, Redis, Kafka, and Docker, and I’m always eager to explore new technologies.
 
 🚀 About Me  
-🔭 Currently working on: A Telegram Bot in Python with AI-powered features  
+🔭 Currently working on: A Telegram Bot in Python with complex idea  
 🌱 Learning: Advanced Golang, Machine Learning, and AI-driven chatbot development  
-👯 Looking to collaborate on: Open-source Golang projects, especially those involving distributed systems and cloud computing  
-🤔 Looking for help with: AI & Machine Learning applications in Golang  
-💬 Ask me about: Golang, gRPC, PostgreSQL, Redis, Kafka, Docker, Microservices Architecture  
-📖 Interested in: System design, DevOps, cloud computing, and AI-driven backend solutions  
-⚡ Fun Fact: I love optimizing performance and debugging complex systems!  
-
+👯 Looking to collaborate on: Open-source Golang projects, especially those involving distributed systems and cloud computing   
+🤔 Looking for help with: AI & Machine Learning applications in Golang and Python  
+💬 Ask me about: Golang, Python, gRPC, PostgreSQL, Redis, Kafka, Docker, Microservices Architecture  
+📖 Interested in: System design, DevOps, cloud computing, and AI-driven backend solutions   
+⚡ Fun Fact: I love optimizing performance and debugging complex systems!   
+ 
 ---
 
 ## **The tools and technologies I know to create and solve problems💡.**
