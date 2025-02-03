@@ -32,25 +32,26 @@ I'm a backend developer with expertise in Golang, microservices, and gRPC. I enj
 
 ## 📫 Feel free to reach out to me 
 <p align="center">  
-  <a href="mailto:muhammadjonxudaynazarov226@gmail.com">  
+  <a href="mailto:muhammadjonxudaynazarov226@gmail.com" target="_blank">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">  
   </a>  
-  <a href="https://t.me/muhammad_deve">  
+  <a href="https://t.me/muhammad_deve" target="_blank">  
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">  
   </a>  
-  <a href="https://www.linkedin.com/in/muhammadsodiq-xudoynazarov-639a48315/">  
+  <a href="https://www.linkedin.com/in/muhammadsodiq-xudoynazarov-639a48315/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">  
   </a>  
-  <a href="https://github.com/mukhammaed000">  
+  <a href="https://github.com/mukhammaed000" target="_blank">  
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">  
   </a>  
-  <a href="https://gitlab.com/mukhammed000">  
+  <a href="https://gitlab.com/mukhammed000" target="_blank">  
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">  
   </a>  
-  <a href="https://leetcode.com/mukhamma_">  
+  <a href="https://leetcode.com/mukhamma_" target="_blank">  
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leet-code&logoColor=white" alt="LeetCode">  
   </a>  
 </p>
+
 
 ---
 
