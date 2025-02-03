@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B;I+am+Muhammad" alt="Typing SVG">
-  </a>
-</p>
+## <p align="center">Hi there 👋 <br> My name is Muhammad</p>
 
 I'm a backend developer with expertise in Golang, microservices, and gRPC. I enjoy designing and developing high-performance, scalable applications, focusing on efficiency, reliability, and maintainability. My tech stack includes PostgreSQL, Redis, Kafka, and Docker, and I’m always eager to explore new technologies.
 
